@@ -1,5 +1,7 @@
-from functools import reduce
 import csv
+import os
+from functools import reduce
+
 
 with open("developers.csv","r") as file:
 	keys = file.readline()
