@@ -1,0 +1,40 @@
+{
+    "heroes": [
+        {
+            "name": "Broodmother",
+            "Time": 4000,
+            "Update": true,
+            "Matches": 2500
+        },
+        {
+            "name": "Lycan",
+            "Time": 606,
+            "Update": false,
+            "Matches": 606
+        },
+        {
+            "name": "Visage",
+            "Time": 100,
+            "Update": false,
+            "Matches": 200
+        },
+        {
+            "name": "Axe",
+            "Time": 100,
+            "Update": true,
+            "Matches": 150
+        },
+        {
+            "name": "Beastmaster",
+            "Time": 900,
+            "Update": true,
+            "Matches": 808
+        },
+        {
+            "name": "Dawnbreaker",
+            "Time": 10000,
+            "Update": false,
+            "Matches": 3000
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+<'Spider' Name: Broodmother, Time: 4000, Update: True, Matches: 2500>
+<'Wolf' Name: Lycan, Time: 606, Update: False, Matches: 606>
+<'VSG' Name: Visage, Time: 100, Update: False, Matches: 200>
+{'name': 'Axe', 'Time': 100, 'Update': True, 'Matches': 150}
+<'BMSTR' Name: Beastmaster, Time: 900, Update: True, Matches: 808>
+<'DB' Name: Dawnbreaker, Time: 10000, Update: False, Matches: 3000>
